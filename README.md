@@ -1,6 +1,6 @@
 # INFOTC-1600-Final
 # A Beginner’s Guide to Version Control with Git and GitHub  
-**Author:** Carter Maupin  
+**Author:** Your Name  
 
 ## Summary
 This tutorial introduces beginners to version control using Git and GitHub. It explains what version control is, why it matters, how Git works, and how to create a repository, make commits, and push files to GitHub. By the end, a new user will understand the basic Git workflow and feel confident using Git for school or personal projects.
